@@ -13,6 +13,8 @@ public class stack_in_array {
             }
          
             arr[idx] = x;
+
+            
             idx++;
         }
 
